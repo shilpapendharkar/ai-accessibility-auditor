@@ -19,7 +19,7 @@ export default function AuditPage() {
       {/* Results */}
 
       <div className="w-96">
-        <AIResultPanel results={results} />
+        <AIResultPanel issues={results} />
       </div>
 
     </div>
