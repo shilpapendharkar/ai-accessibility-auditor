@@ -1,5 +1,5 @@
 
-# AI Accessibility Auditor – Senior Frontend Architect Demo
+# AI Accessibility Auditor
 
 **AI-first tool for auditing React JSX components for accessibility (WCAG-compliant) and providing actionable improvements.**
 
