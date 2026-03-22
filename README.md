@@ -91,14 +91,6 @@ Open [http://localhost:3000](http://localhost:3000)
 
 ---
 
-## 🔗 Links
-
-- Live Demo: [Vercel Link Here]()  
-- LinkedIn Post: [Link Here]()  
-- Portfolio: [Link Here]()
-
----
-
 ## 📝 License
 
 Open-source for demo purposes. Adaptable for learning and portfolio showcases.
