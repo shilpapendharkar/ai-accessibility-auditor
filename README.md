@@ -83,11 +83,25 @@ Open [http://localhost:3000](http://localhost:3000)
 
 ## 📸 Screenshots / Demo
 
-**Dashboard** – Shows recent audits, SaaS-like UX  
-**Editor** – Monaco editor with preloaded snippets  
-**Audit Result** – AI-generated actionable suggestions  
+## Dashboard
 
-*(Add actual screenshots)*
+![Dashboard](./images/dashboard.png)
+
+---
+
+## Code Editor
+
+Users can paste code or load demo snippets.
+
+![Editor](./images/editor.png)
+
+---
+
+## Audit Results
+
+AI detects accessibility issues and suggests improvements.
+
+![Audit Results](./images/result.png)
 
 ---
 
